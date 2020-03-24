@@ -10,8 +10,8 @@ The exercises in this repository are based on [CSC's Introduction to deep learni
         
 2. Clone and cd to the exercise repository:
 
-        git clone https://github.com/csc-training/intro-to-dl.git
-        cd intro-to-dl/day2
+        git clone https://github.com/nyholmju/arcada_dl.git exercises
+        cd exercises
 
 ### Edit and submit jobs
 
