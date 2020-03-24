@@ -41,6 +41,7 @@ The exercises in this repository are based on [CSC's Introduction to deep learni
 4. Repeat steps 1 to 3  until you are happy with the results.
 
 5. Optional: Check batch jobs run time and resource utilization using `seff`
+
         seff slurmjobid # The slurm job id is the xxxxxxxx part in the file name (slurm-xxxxxxxx.out)
 
 
