@@ -92,9 +92,9 @@ Use local storage in Puhti to speed up disk access.
    - Also, see https://docs.csc.fi/#computing/running/creating-job-scripts/#local-storage for more information.
 
 ### Exercise 2
-Experiment with Horovod to implement multi-GPU training:
+Experiment with Horovod to implement multi-GPU training.
    - See [run-tf2-hvd.sh](run-tf2-hvd.sh) and [tf2-dvc-cnn-simple-hvd.py](tf2-dvc-cnn-simple-hvd.py). 
    - See [run-pytorch-hvd.sh](run-pytorch-hvd.sh) and [pytorch_dvc_cnn_simple_hvd.py](pytorch_dvc_cnn_simple_hvd.py). 
-   - Do you get improvements in speed?
+   - Do you get improvements in speed when running on 2 GPUs?
    - Do you get the same accuracy than with a single GPU?
 
