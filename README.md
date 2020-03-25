@@ -89,7 +89,7 @@ There is another, small dataset `avp`, of aliens and predators. Modify dogs vs. 
 
 Use local storage in Puhti to speed up disk access.
    - See [run-tf2-lscratch.sh](run-tf2-lscratch.sh), which copies the dogs-vs-cats dataset to `$LOCAL_SCRATCH`, and try for example with [tf2-dvc-cnn-simple.py](tf2-dvc-cnn-simple.py).
-   - Also, see https://docs.csc.fi/#computing/running/creating-job-scripts/#local-storage for more information.
+   - Also, see https://docs.csc.fi/computing/running/creating-job-scripts/#local-storage for more information.
 
 ### Exercise 2
 Experiment with Horovod to implement multi-GPU training.
